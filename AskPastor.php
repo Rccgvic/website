@@ -57,7 +57,7 @@ if ((isset($_POST["MM_insert"])) && ($_POST["MM_insert"] == "ask_pastor")) {
 <link href="css/style.css" rel="stylesheet" type="text/css">
 <link href="css/rccgvic.css" rel="stylesheet" type="text/css">
 <head>
-<title>RCCGVIC: Ask Pastor</title>
+<title>RCCGVIC: Ask Pastor a question</title>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<meta name="description" content="" />
 	<meta name="keywords" content="" />
